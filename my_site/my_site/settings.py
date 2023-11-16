@@ -183,4 +183,4 @@ STATIC_URL = "static/"
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
-OSCAR_SHOP_NAME = 'test'
+OSCAR_SHOP_NAME = 'Drinks'
